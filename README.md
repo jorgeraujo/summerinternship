@@ -38,6 +38,21 @@ Here's a (extremely) simplified version of what a Web Application for an emergen
 
 ![Emergency Room](readme/emergency_room.png)
 
+Your first task is to build a static web page (using HTML and CSS) mirroring the picture above. You don't need to mirror the picture exactly as it is, but the structure must be the same.
+
+You can use CSS frameworks like Bootstrap, Foundation and similar.
+
+
+### Build a dynamic web application
+
+- Your second task is to build a dynamic web application that will serve the contents of the emergency room dinamically from a DataBase.
+
+- Additionally, implement the ability to add more patients using the text field you see on the page.
+
+You are free to choose any kind of technologies you're familiar with to achieve this task, be it **Ruby on Rails**, **Sinatra**, **ExpressJS**, **Django**, or any other.
+Also, use whatever DataBase you're used to, be it Relational such as **PostgreSQL** and **MySQL**, document based such as **MongoDB** or any other.
+
+> If you're unfamiliar with server-side web frameworks, use Javascript to implement the same functionality.
 
 Upload your work
 ----------------
