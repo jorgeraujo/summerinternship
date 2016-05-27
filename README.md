@@ -57,4 +57,12 @@ Also, use whatever DataBase you're used to, be it Relational such as **PostgreSQ
 Upload your work
 ----------------
 
-When you're done, be sure to upload your work back to Github by committing directly to master.
+When you're done, be sure to upload your work back to Github by committing directly to master or to any other branch of your choice.
+
+Don't forget to include instructions on how to set up your web application for us to be able to run it ourselves in our PCs.
+
+
+Thank You
+----------------
+
+Thanks for spending the day with us and.. Godspeed!
